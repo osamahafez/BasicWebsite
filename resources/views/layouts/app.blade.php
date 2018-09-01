@@ -1,7 +1,7 @@
 <html>
     <head>
         <meta charset="utf8">
-        <title>Basic Website</title>
+        <title> @yield('title') </title>
         <link rel="stylesheet"  href="css/app.css">
     </head>
     <body> 

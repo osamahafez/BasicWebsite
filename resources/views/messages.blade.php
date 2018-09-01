@@ -1,5 +1,9 @@
 @extends('layouts/app')
 
+@section('title')
+    Messages
+@endsection
+
 @section('content')
     <h1>Messages</h1>
     @if (count($messages) > 0)

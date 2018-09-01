@@ -1,5 +1,9 @@
 @extends('layouts/app')
 
+@section('title')
+	Home
+@endsection
+
 @section('content')
     <h1>Home</h1>
     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fuga atque tenetur impedit eveniet placeat repellendus similique obcaecati odio, totam omnis, eaque quae. Sunt provident doloribus reprehenderit necessitatibus recusandae! Eveniet, dolores.</p>   
